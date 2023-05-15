@@ -1,0 +1,2 @@
+# Anime Paradise
+Proyecto académico simple realizado con Html5, Javascript y Bootstrap 100% responsive. Se trata de una web de anime en el que se consume la API Jikan para obtener la información de los ánimes en la página principal.
